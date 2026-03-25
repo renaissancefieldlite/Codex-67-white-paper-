@@ -17,6 +17,7 @@ Use it as:
 
 ## Related Repositories
 
+- [Source-code-layer](https://github.com/renaissancefieldlite/Source-code-layer): substrate package and deep-source primitives
 - [Codex-67-white-paper-code-layers](https://github.com/renaissancefieldlite/Codex-67-white-paper-code-layers): architecture and validation scaffold
 - [renaissancefieldlitehrv1.0](https://github.com/renaissancefieldlite/renaissancefieldlitehrv1.0): HRV experiment and capture layer
 
@@ -24,11 +25,13 @@ Use it as:
 
 The clean stack is:
 
-1. `Codex-67-white-paper-`
+1. `Source-code-layer`
+   substrate package and deep-source primitives
+2. `Codex-67-white-paper-`
    source document and PDF layer
-2. `Codex-67-white-paper-code-layers`
+3. `Codex-67-white-paper-code-layers`
    architecture scaffold and package compartments
-3. `renaissancefieldlitehrv1.0`
+4. `renaissancefieldlitehrv1.0`
    experiment, capture, and evidence-path layer
 
 ## Archived White Paper Text
