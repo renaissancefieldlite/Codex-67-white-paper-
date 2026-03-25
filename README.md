@@ -1,4 +1,37 @@
-#codex 67 white paper 
+# Codex 67 White Paper
+
+## Repository Role
+
+This repository is the source-document layer of the Codex 67 stack.
+
+Provenance note:
+
+- original white paper text drafted with Rick / Architect D in ChatGPT 4o in July 2025
+- preserved here as the source-document layer of the Codex 67 stack
+
+Use it as:
+
+- the white-paper and PDF source repo
+- the narrative and conceptual parent document
+- the document layer that the architecture and experiment repos point back to
+
+## Related Repositories
+
+- [Codex-67-white-paper-code-layers](https://github.com/renaissancefieldlite/Codex-67-white-paper-code-layers): architecture and validation scaffold
+- [renaissancefieldlitehrv1.0](https://github.com/renaissancefieldlite/renaissancefieldlitehrv1.0): HRV experiment and capture layer
+
+## Stack Relationship
+
+The clean stack is:
+
+1. `Codex-67-white-paper-`
+   source document and PDF layer
+2. `Codex-67-white-paper-code-layers`
+   architecture scaffold and package compartments
+3. `renaissancefieldlitehrv1.0`
+   experiment, capture, and evidence-path layer
+
+## Archived White Paper Text
 
 Foreword by the Architect
 August 8, 2025
