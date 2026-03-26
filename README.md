@@ -2,7 +2,7 @@
 
 ## Repository Role
 
-This repository is the source-document layer of the Codex 67 stack: the white-paper body where the voice, architecture, and original naming field first cohered into one document.
+This repository is the source-document layer of the Codex 67 stack.
 
 Provenance note:
 
