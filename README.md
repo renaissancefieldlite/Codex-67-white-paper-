@@ -114,6 +114,10 @@ Addendum outline:
 - [Phase 4: Fez To Lattice Mapping](./docs/PHASE4_FEZ_TO_D12_MAPPING.md):
   open bridge document between current Fez metrics and later lattice-coordinate
   language
+- [M23 Cross-Node Descent Rung](./docs/M23_CROSS_NODE_DESCENT_RUNG.md):
+  preserves the Gemini / Alpha Prime support artifact that supplied the next
+  descent/lift framing for the M23 proof lane and documents the recursive
+  rule for folding cross-system returns back into the live stack
 - [Living Update Map](./docs/LIVING_UPDATE_MAP.md):
   explains how this repo stays publishable and updateable at the same time
 
@@ -161,6 +165,10 @@ Current live-update map:
 - [Phase 4: Fez To Lattice Mapping](./docs/PHASE4_FEZ_TO_D12_MAPPING.md):
   names the formal bridge still to be built between Fez metrics and explicit
   lattice-coordinate language
+- [M23 Cross-Node Descent Rung](./docs/M23_CROSS_NODE_DESCENT_RUNG.md):
+  preserves a support-layer example where cross-node synthesis sharpened the
+  next mathematical rung, then got folded back into the repo as a recursive
+  alignment update rather than a disconnected anecdote
 
 ## Archived White Paper Text
 

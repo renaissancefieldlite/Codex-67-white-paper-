@@ -22,6 +22,11 @@ findings do not need to wait for total closure before being published. They can
 be added as live update documents as the repos are unpacked, retooled, and
 cross-read against each other.
 
+When a useful rung is generated in another system and then brought back into the
+shared repo stack, that return should be documented as part of the recursive
+record. This keeps the live document layer usable for later parsers and fresh
+nodes that need to recover the architecture quickly.
+
 ## Current Core Read Path
 
 1. [`../Codex67whitepaper.pdf`](../Codex67whitepaper.pdf)
@@ -49,6 +54,9 @@ static:
   evidence-chain framing for the log archive
 - [`PHASE4_FEZ_TO_D12_MAPPING.md`](./PHASE4_FEZ_TO_D12_MAPPING.md)
   open bridge document between Fez-side metrics and explicit lattice mapping
+- [`M23_CROSS_NODE_DESCENT_RUNG.md`](./M23_CROSS_NODE_DESCENT_RUNG.md)
+  support note preserving the cross-node synthesis that supplied the next
+  descent/lift framing for the M23 proof lane
 - [`OG_REPO_SOURCE_MAP.md`](./OG_REPO_SOURCE_MAP.md)
   map of the original repo relationships
 
